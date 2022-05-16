@@ -1,4 +1,5 @@
-From Sara-Carreras
+By ✨Sara-Carreras
+
 # Week 6 - Weekend Challenge
 ## Conway Game of Life 🦠 !
 

@@ -1,4 +1,4 @@
-# 202205-W06_Sara-Carreras
+### 202205-W06_Sara-Carreras
 # Week 6 - Weekend Challenge
 ## Conway Game of Life 🦠 !
 
